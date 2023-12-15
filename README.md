@@ -1,11 +1,11 @@
 <h1 align="center">JS Recipe Search App 🥦</a> 
-<h1 align="center">Link to the app <a href="https://helpful-satin-rest.glitch.me/" target="_blank"></a> 
+<h2 align="center">Link to the app <a href="https://helpful-satin-rest.glitch.me/" target="_blank"></a> 
 
 
 <h3>Description</h3>
 <hr>
 
-<p>Welcome to the Recipe Search App! This web application is built using JavaScript and provides users with a convenient way to search for and discover delicious recipes. Whether you're a seasoned chef or a cooking enthusiast, this app is designed to make your culinary journey even more enjoyable.</p>
+<p>Welcome to the Recipe Search App! This web application is built using JavaScript and provides users with a convenient way to search for and discover delicious recipes. Whether you're a seasoned chef or a cooking enthusiast, this app is designed to make your culinary journey even more enjoyable 🥗</p>
 
 ## Table of Contents
 
