@@ -1,5 +1,5 @@
 <h1 align="center">JS Recipe Search App 🥦</a> 
-<h2 align="center">Link to the app <a href="https://helpful-satin-rest.glitch.me/" target="_blank"></a> 
+<h2 align="center"><a href="https://helpful-satin-rest.glitch.me/" target="_blank">Link to the app</a> 
 
 
 <h3>Description</h3>
