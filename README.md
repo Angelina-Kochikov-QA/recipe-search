@@ -34,10 +34,10 @@
 cd recipe-search
 
 3. Open index.html in Your Browser:
-Simply double-click on the index.html file or open it using your preferred web browser.
+<p>Simply double-click on the index.html file or open it using your preferred web browser.</p>
 
 4. Start Exploring Recipes:
-Use the search bar to enter your favorite ingredients or dishes, and watch as the app fetches a variety of mouthwatering recipes for you.
+<p>Use the search bar to enter your favorite ingredients or dishes, and watch as the app fetches a variety of mouthwatering recipes for you.</p>
 
 ## Technologies Used
 
