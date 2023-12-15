@@ -2,7 +2,7 @@
 <h2 align="center"><a href="https://helpful-satin-rest.glitch.me/" target="_blank">Link to the app</a> 
 
 
-<h3>Description</h3>
+## Description
 <hr>
 
 <p>Welcome to the Recipe Search App! This web application is built using JavaScript and provides users with a convenient way to search for and discover delicious recipes. Whether you're a seasoned chef or a cooking enthusiast, this app is designed to make your culinary journey even more enjoyable 🥗</p>
@@ -47,7 +47,7 @@ cd recipe-search
    <li>JavaScript</li>
 </ul>
 
-**Happy cooking!
+Happy cooking!
 
 
 
