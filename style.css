@@ -106,3 +106,70 @@ span {
     margin-top: 30px;
 }
 
+
+
+
+@media all and (max-width:800px) {
+    .heading {
+        margin-top: -200px;
+    }
+
+    .galleryheading {
+        margin-top: -10px;
+        
+    }
+
+    span {
+        font-size: 30px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .container {
+        justify-content: center;
+    }
+
+}
+
+@media all and (max-width:500px) {
+
+
+    .meals {
+        width: 100%;
+    }
+    h1 {
+        font-size: 15px;
+    }
+
+    span {
+        font-size: 25px;
+    }
+
+    .galleryheading {
+        margin-top: 400px;
+        font-size: 15px;
+       
+    }
+
+    .heading {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+   .btn {
+    width: 150%;
+    justify-content: flex-start;
+    margin-left: 25px;
+   }
+
+   img {
+    width: 100%;
+   }
+
+
+}
+

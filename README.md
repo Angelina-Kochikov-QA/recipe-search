@@ -33,8 +33,8 @@
 
 cd recipe-search
 
-3. Open index.html in Your Browser:
-<p>Simply double-click on the index.html file or open it using your preferred web browser.</p>
+3. Run this command to launch the code:
+<p>code .</p>
 
 4. Start Exploring Recipes:
 <p>Use the search bar to enter your favorite ingredients or dishes, and watch as the app fetches a variety of mouthwatering recipes for you.</p>
